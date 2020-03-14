@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f75bd4a5-3035-4164-b67c-6fafda2db602" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TicTacToe" />
+  </component>
+  <component name="ProjectId" id="1Z8HNttGVLgCrk9PmcNDOIqusE8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.alper.Main" />
+      <module name="JavaExamples" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixShows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NetflixShows" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.NetflixShows" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NetflixShows" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f75bd4a5-3035-4164-b67c-6fafda2db602" name="Default Changelist" comment="" />
+      <created>1584213763964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584213763964</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/TicTacToe" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="178" key="#NetflixShows" timestamp="1584214151520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="178" key="#NetflixShows/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584214151520" />
+    <state width="1877" height="447" key="GridCell.Tab.0.bottom" timestamp="1584223391267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="447" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584223391267" />
+    <state width="1877" height="447" key="GridCell.Tab.0.center" timestamp="1584223391267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="447" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584223391267" />
+    <state width="1877" height="447" key="GridCell.Tab.0.left" timestamp="1584223391267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="447" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584223391267" />
+    <state width="1877" height="447" key="GridCell.Tab.0.right" timestamp="1584223391267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="447" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584223391267" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584223363066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584223363066" />
+  </component>
+</project>
